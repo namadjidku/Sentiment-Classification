@@ -1,1 +1,4 @@
-"# Sentiment-Classification" 
+### Sentiment Analysis
+With the rise of online social media platforms like Twitter, Facebook and Reddit, and the proliferation of customer reviews on sites like Amazon and Yelp, we now have access, more than ever before, to massive text-based data sets! They can be analyzed in order to determine how large portions of the population feel about certain products, events, etc. This sort of analysis is called sentiment analysis. In this notebook you will build an end-to-end sentiment classification system from scratch.
+
+The dataset we are going to use is very popular among researchers in Natural Language Processing, usually referred to as the IMDb dataset. It consists of movie reviews from the website imdb.com, each labeled as either 'positive', if the reviewer enjoyed the film, or 'negative' otherwise.
